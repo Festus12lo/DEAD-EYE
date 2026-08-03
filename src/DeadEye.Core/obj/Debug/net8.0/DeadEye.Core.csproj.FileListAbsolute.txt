@@ -1,0 +1,11 @@
+C:\Projects\DEAD-EYE-M6\src\DeadEye.Core\bin\Debug\net8.0\DeadEye.Core.deps.json
+C:\Projects\DEAD-EYE-M6\src\DeadEye.Core\bin\Debug\net8.0\DeadEye.Core.dll
+C:\Projects\DEAD-EYE-M6\src\DeadEye.Core\bin\Debug\net8.0\DeadEye.Core.pdb
+C:\Projects\DEAD-EYE-M6\src\DeadEye.Core\obj\Debug\net8.0\DeadEye.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DEAD-EYE-M6\src\DeadEye.Core\obj\Debug\net8.0\DeadEye.Core.AssemblyInfoInputs.cache
+C:\Projects\DEAD-EYE-M6\src\DeadEye.Core\obj\Debug\net8.0\DeadEye.Core.AssemblyInfo.cs
+C:\Projects\DEAD-EYE-M6\src\DeadEye.Core\obj\Debug\net8.0\DeadEye.Core.csproj.CoreCompileInputs.cache
+C:\Projects\DEAD-EYE-M6\src\DeadEye.Core\obj\Debug\net8.0\DeadEye.Core.dll
+C:\Projects\DEAD-EYE-M6\src\DeadEye.Core\obj\Debug\net8.0\refint\DeadEye.Core.dll
+C:\Projects\DEAD-EYE-M6\src\DeadEye.Core\obj\Debug\net8.0\DeadEye.Core.pdb
+C:\Projects\DEAD-EYE-M6\src\DeadEye.Core\obj\Debug\net8.0\ref\DeadEye.Core.dll
